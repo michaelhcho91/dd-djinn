@@ -8,18 +8,6 @@ export const matchPathElement = (path: string) => {
   }
 };
 
-export const getGifSrcUrl = (name: string) => {
-  return `${process.env.PUBLIC_URL}/images/gifs/${name.toLowerCase()}.gif`;
-};
-
-export const getEntrySrcUrl = (name: string) => {
-  return `${process.env.PUBLIC_URL}/images/entry/${name.toLowerCase()}_entry.png`;
-};
-
-export const getImageSrcUrl = (name: string) => {
-  return `${process.env.PUBLIC_URL}/images/${name}.png`;
-};
-
 export const random = (min: number, max: number) =>
   Math.random() * (max - min) + min;
 
