@@ -25,13 +25,13 @@ const Djinn = ({ layer = "background" }: Djinn) => {
     const container = layerRef.current;
     if (!container) return;
 
-    const djinn: Djinni[] = Array.from({ length: 10 }, () => {
-      const size = random(42, 100);
+    const djinn: Djinni[] = djinnGifUrls.map((url) => {
+      const size = random(42, 84);
       const { velocityX, velocityY } = randomVelocity();
       const gif = document.createElement("img");
 
       gif.className = "djinn";
-      gif.src = djinnGifUrls[Math.floor(Math.random() * djinnGifUrls.length)];
+      gif.src = url;
       gif.alt = "";
       gif.setAttribute("aria-hidden", "true");
       gif.style.width = `${size}px`;

@@ -3,6 +3,7 @@
   inset: 0;
   overflow: hidden;
   pointer-events: none;
+  background-color: #b47a41;
 }
 
 .djinn-layer--background {
@@ -22,4 +23,5 @@
   transform-origin: center;
   user-select: none;
   will-change: transform;
+  filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
 }
