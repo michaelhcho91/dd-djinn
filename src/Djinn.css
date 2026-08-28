@@ -1,0 +1,25 @@
+.djinn-layer {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.djinn-layer--background {
+  z-index: -1;
+}
+
+.djinn-layer--foreground {
+  z-index: 9999;
+}
+
+.djinn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  object-fit: contain;
+  transform-origin: center;
+  user-select: none;
+  will-change: transform;
+}

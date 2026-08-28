@@ -1,0 +1,520 @@
+{
+  "venus": {
+    "id": 1,
+    "djinn": [
+      {
+        "id": 101,
+        "name": "Flint",
+        "description": "This spirit was Isaac's very first Djinni. Flint talks a great deal, but is both knowledgeable and nice, so no one complains.",
+        "effect": "Attack with a blow that can cleave stone."
+      },
+      {
+        "id": 102,
+        "name": "Flower",
+        "description": "This flower spirit is found by the gate to the Konpa ruins. Flower's sweet scent has a refreshing and healing effect.",
+        "effect": "Refresh allies and restore HP."
+      },
+      {
+        "id": 103,
+        "name": "Bark",
+        "description": "This tough spirit is first met on the Passaj Mountain Climb. Bark's rough hide can protect allies like a shield.",
+        "effect": "Create a protective barrier against attacks."
+      },
+      {
+        "id": 104,
+        "name": "Steel",
+        "description": "This love spirit is first found in Kaocho. Steel's attack is a vitality-stealing kiss that leaves enemies wanting more.",
+        "effect": "Attack and siphon a foe's HP with a kiss."
+      },
+      {
+        "id": 105,
+        "name": "Brick",
+        "description": "This spirit is found in Harapa. Brick's control over stones allows for the instant creation of defensive barriers.",
+        "effect": "Boost party Defense with a hard covering."
+      },
+      {
+        "id": 106,
+        "name": "Vine",
+        "description": "This spirit has influence over seeds and is found in the Teppe ruins. In battle, Vine plants seeds that grow with amazing speed to hamper foes.",
+        "effect": "Tangle multiple foes to drop Agility."
+      },
+      {
+        "id": 107,
+        "name": "Gears",
+        "description": "This spirit of inevitability is found north of Border Town. Gears can force evil beings to turn on one another.",
+        "effect": "Force a foe to attack another."
+      },
+      {
+        "id": 108,
+        "name": "Furrow",
+        "description": "Desire is the province of this spirit, who you first meet in Belinsk. Furrow's attack takes vitality from foes by force.",
+        "effect": "Drain an enemy's HP."
+      },
+      {
+        "id": 109,
+        "name": "Garland",
+        "description": "This tree spirit is found in Kolima Village. Garland has a pleasant fragrance that immediately refreshes and relieves fatigue.",
+        "effect": "Refresh an ally and restore HP."
+      },
+      {
+        "id": 110,
+        "name": "Pewter",
+        "description": "Laurel uses this spirit of emotion as her envoy, sometimes to her regret. Pewter's attack can penetrate strong defenses with molten metal.",
+        "effect": "Attack with molten metal through defenses."
+      },
+      {
+        "id": 111,
+        "name": "Chasm",
+        "description": "A spirit of the void, this Djinni is found deep in the Belinsk ruins. The vacuum within Chasm draws everything in.",
+        "effect": "Send damage the party takes to the void."
+      },
+      {
+        "id": 112,
+        "name": "Chain",
+        "description": "This spirit represents earth's binding powers and is first met on Warrior's Hill. Chain's attacks hold a foe in place to help allies coordinate strikes.",
+        "effect": "Entangle a foe so each ally can attack."
+      },
+      {
+        "id": 113,
+        "name": "Buckle",
+        "description": "This metallic spirit joins with Himi. Buckle's influence over metals can harden substances to many times their original strength.",
+        "effect": "Boost party Defense with a protective shell."
+      },
+      {
+        "id": 114,
+        "name": "Clover",
+        "description": "This fragrant spirit is met along with Himi. Clover's fresh scent seems to cleanse the soul and is quite calming.",
+        "effect": "Restore allies' status to normal."
+      },
+      {
+        "id": 115,
+        "name": "Magnet",
+        "description": "This lodestone spirit joins the party with Himi. Magnet's attacks paralyze with a powerful force.",
+        "effect": "Stun a foe with sudden force."
+      },
+      {
+        "id": 116,
+        "name": "Geode",
+        "description": "This spirit joins the party with Himi and was born from a mineral formation. Geode draws power from far underground to attack.",
+        "effect": "Attack with a clod of earth."
+      },
+      {
+        "id": 117,
+        "name": "Ivy",
+        "description": "This climbing-plant spirit is found in Passaj. With a single look into Ivy's eyes, an enemy may be immediately petrified.",
+        "effect": "Turn an enemy to stone."
+      },
+      {
+        "id": 118,
+        "name": "Hemlock",
+        "description": "This spirit is associated with death and is found at the ruins in Yamata. Hemlock's grim power sentences the living to imminent death.",
+        "effect": "Use ominous flora to doom all enemies."
+      },
+      {
+        "id": 119,
+        "name": "Sap",
+        "description": "This spirit represents the lifeblood of trees and plants and is an old friend of Isaac's. Sap's attack absorbs vitality from foes.",
+        "effect": "Drain HP from a foe by nutrient absorption."
+      },
+      {
+        "id": 120,
+        "name": "Ground",
+        "description": "This spirit controls gravity and is a friend of Isaac's. Ground's attack creates gravity wells strong enough to paralyze an enemy.",
+        "effect": "Use gravity to hold a foe."
+      },
+      {
+        "id": 121,
+        "name": "Granite",
+        "description": "This spirit of very hard stone is one of Isaac's friends. In battle, Granite's tough, wall-like body can defend allies.",
+        "effect": "Create a mighty earthen barrier."
+      },
+      {
+        "id": 122,
+        "name": "Quartz",
+        "description": "This spirit represents the healing energies of the earth. Quartz can heal wounds by focusing ambient energy into a living creature.",
+        "effect": "May revive a downed ally with earth energy."
+      },
+      {
+        "id": 123,
+        "name": "Salt",
+        "description": "This spirit reflects the trace minerals present in living creatures and is a friend of Isaac's. Salt can cleanse and purify an ally's body of harmful effects.",
+        "effect": "Restore allies' status to normal."
+      }
+    ]
+  },
+  "mercury": {
+    "id": 2,
+    "djinn": [
+      {
+        "id": 201,
+        "name": "Chill",
+        "description": "This spirit of intense cold is found at Carver's Camp. Chill's attach renders enemies brittle and vulnerable.",
+        "effect": "Shatter a foe's defense with numbing cold."
+      },
+      {
+        "id": 202,
+        "name": "Sleet",
+        "description": "This spirit of crystallized ice joins the party with Rief. Sleet's attack wraps enemies in blinding cold, making fighting more difficult.",
+        "effect": "Slash a foe with ice to reduce its Attack."
+      },
+      {
+        "id": 203,
+        "name": "Surge",
+        "description": "This geyser spirit joins the party in Barai Temple. Surge can conjure a hot-spring effect that relieves fatigue for allies.",
+        "effect": "Restore party HP with a stream of life."
+      },
+      {
+        "id": 204,
+        "name": "Mist",
+        "description": "This spirit has influence over sleep and joins your party along with Amiti. Mist's attack enshrouds a foe's mind, making it ready for sleep.",
+        "effect": "Attack and lull a foe into deep sleep."
+      },
+      {
+        "id": 205,
+        "name": "Mellow",
+        "description": "This spirit of calm waters befriends the party along with Amiti. Mellow's untroubled aura shields the party from hostile Psynergy.",
+        "effect": "Boost party Resistance with a moist sheen."
+      },
+      {
+        "id": 206,
+        "name": "Claw",
+        "description": "This spirit represents aggressive sea life and joins the party along with Amiti. Claw's attack leaves a foe more vulberable to Psynergy.",
+        "effect": "Attack to drop an enemy's Resistance."
+      },
+      {
+        "id": 207,
+        "name": "Serac",
+        "description": "This spirit represents the overpowering cold of a glacier and is met at the Harapa runs. Serac's attack sucks all heat away from the environment instantly.",
+        "effect": "Strike a chilling finishing blow."
+      },
+      {
+        "id": 208,
+        "name": "Dewdrop",
+        "description": "This spirit carries the refreshing feeling of morning dew and is met near the Teppe ruins. Dewdrop cleanses the party of toxins and the like.",
+        "effect": "Cure party status effects with fresh dew."
+      },
+      {
+        "id": 209,
+        "name": "Torrent",
+        "description": "This spirit represents powerful currents and is found in Belinsk. Torrent's trememdous energy is contagious and makes the whole party move faster.",
+        "effect": "Boost party Agility with a surge of energy."
+      },
+      {
+        "id": 210,
+        "name": "Coral",
+        "description": "This spirit embodies the life-giving properties of the sea and is first met at Port Rago. Coral's aura restores life and health to the injured.",
+        "effect": "Restore party HP with the life-giving seas."
+      },
+      {
+        "id": 211,
+        "name": "Spout",
+        "description": "This torrential spirit is met in Belinsk. The force of Spout's watery attack leaves behind a mist that obscures a foe's vision.",
+        "effect": "Spray foe with painful, blinding mists."
+      },
+      {
+        "id": 212,
+        "name": "Teardrop",
+        "description": "This spirit embodies tears shed in grief and is encountered in Kolima Forest. Teardrop's own tears can bring people back from the brink of death.",
+        "effect": "Usually revive a downed ally with grieving."
+      },
+      {
+        "id": 213,
+        "name": "Pincer",
+        "description": "This spirit represents peaceful sea life and is met in Belinsk. Pincer's attack erodes an enemy's ability to resist Psynergy.",
+        "effect": "Pinch enemy to drop its Resistance."
+      },
+      {
+        "id": 214,
+        "name": "Spring",
+        "description": "This hopeful spirit represents the water that bubbles from springs and is found in Harun Village. Spring's water is supernaturally refreshing.",
+        "effect": "Restore HP with healing springwater."
+      },
+      {
+        "id": 215,
+        "name": "Foam",
+        "description": "This spirit of churning oceans is first met near Tonfon. Foam can create areas of tidal instability that slow enemies down.",
+        "effect": "Reduce foes' Agility with tidal disturbance."
+      },
+      {
+        "id": 216,
+        "name": "Rime",
+        "description": "This spirit embodies crusted ice and is met on an island in the far north. By encasing an enemy's mind in ice, Rime can seal that foe's Psynergy.",
+        "effect": "Seal a foe's Psynergy."
+      },
+      {
+        "id": 217,
+        "name": "Geyser",
+        "description": "This spirit represents water under pressure and is found near Imil. Geyser's attack consists of a highly pressurized spray of water.",
+        "effect": "Blast an enemy with a waterspout."
+      },
+      {
+        "id": 218,
+        "name": "Shell",
+        "description": "This spirit of seashells is encountered at Gaia Falls. Shell's hard skin protects allies against the most storm-tossed seas (and enemy attacks).",
+        "effect": "Shield allies from damage with a hard shell."
+      }
+    ]
+  },
+  "mars": {
+    "id": 3,
+    "djinn": [
+      {
+        "id": 301,
+        "name": "Forge",
+        "description": "This bolstering spirit is encountered at Patcher's Place. Forge's blazing flame stirs allies to greater ferocity in battle.",
+        "effect": "Boost party Attack with flame's fury."
+      },
+      {
+        "id": 302,
+        "name": "Fever",
+        "description": "This spirit of dreams and hallucinations is found near Konpa Gate. Fever's power overheats a foe's brain, causing delusional thinking.",
+        "effect": "Damage and delude a foe with a heat haze."
+      },
+      {
+        "id": 303,
+        "name": "Cinder",
+        "description": "This spirit of fire's last remnants is first met in Harapa. Cinder can ignite vigor in an unconscious ally through sheer determination.",
+        "effect": "Usually revives downed ally with life embers."
+      },
+      {
+        "id": 304,
+        "name": "Lava",
+        "description": "This spirit represents fire's power to melt and is first met in Kaocho. Lava's attack is hot enough to melt enemy defenses, leaving foes vulnerable.",
+        "effect": "Drop enemy Defense with volcanic gases."
+      },
+      {
+        "id": 305,
+        "name": "Brand",
+        "description": "This spirit represents fire's controlling aspect, and is found in Passaj. Brand can lock an enemy's Psynergy in place with a heat seal.",
+        "effect": "Lock enemy Psynergy with low failure rate."
+      },
+      {
+        "id": 306,
+        "name": "Fury",
+        "description": "This spirit embodies hot rage and is first met at Te Rya village. Fury summons the souls of those who died in anger to attack enemies.",
+        "effect": "Call haunting spirits to harm your foe."
+      },
+      {
+        "id": 307,
+        "name": "Glare",
+        "description": "This light spirit is first encountered at the Dream Tree. Glare emits light intense enough to blind and injure an enemy.",
+        "effect": "Damage and delude a foe with heat glare."
+      },
+      {
+        "id": 308,
+        "name": "Reflux",
+        "description": "This spirit of burning pain joins the party with Eoleo. Reflux is essentially cowardly but lashes out with horns when approached.",
+        "effect": "Boost counterattack rate."
+      },
+      {
+        "id": 309,
+        "name": "Wrath",
+        "description": "This spirit of hot rage joins the party with Eoleo. Wrath's vicious attack may exhaust an enemy immediately.",
+        "effect": "Attack with force that may knock foe out."
+      },
+      {
+        "id": 310,
+        "name": "Chili",
+        "description": "This spirit has influence over spicy heat and is a favorite of Eoleo's. Chili's power leaves a foe breathless and unable to move.",
+        "effect": "Stun and injure a foe with explosive force."
+      },
+      {
+        "id": 311,
+        "name": "Glow",
+        "description": "This spirit of fading light joins the party with Eoleo. Glow breathes on the remaining embers of life, rejuvenating knocked-out allies.",
+        "effect": "Revive a downed ally with near certainty."
+      },
+      {
+        "id": 312,
+        "name": "Stoke",
+        "description": "This spirit causes fires to burn ever hotter and joins with Eoleo. Stoke's inspiring presence rallies friends to fight more fiercely.",
+        "effect": "Boost party Attack with a call to victory."
+      },
+      {
+        "id": 313,
+        "name": "Pepper",
+        "description": "This spirit brings fiery influence to some foods and joins the party with Himi. Pepper can overwhelm an enemy's senses, leaving the foe stunned.",
+        "effect": "Attack and stun a foe with unbearable heat."
+      },
+      {
+        "id": 314,
+        "name": "Tinder",
+        "description": "This indomitable fire spirit is encountered in Tonfon. Tinder can restoke life's fire with perfect reliability in an unconscious ally.",
+        "effect": "Revive a downed ally without fail."
+      },
+      {
+        "id": 315,
+        "name": "Fugue",
+        "description": "This spirit represents the fiery passion of music and is found in Champa. Fugue's infectious rhythm exhausts foes' mental strength.",
+        "effect": "Fatigue your foes to drop their PP."
+      },
+      {
+        "id": 316,
+        "name": "Sizzle",
+        "description": "This spirit of blazing heat is first met at Nihan. Sizzle's attack sears foes, leaving them vulnerable to further attack.",
+        "effect": "Damage and drop a foe's Defense with heat."
+      },
+      {
+        "id": 317,
+        "name": "Flare",
+        "description": "This inspiring fire spirit is encountered at the volcanic island cave. Flare's ecstatic light elevates and refreshes the mind.",
+        "effect": "Restore party PP with a psychic flare-up."
+      },
+      {
+        "id": 318,
+        "name": "Aurora",
+        "description": "This spirit of the sun's warming touch is found at Apollo Sanctum. Aurora's gentle influence heals other Djinn, speeding their recovery.",
+        "effect": "Speed party Djinn recovery with Sol's light."
+      },
+      {
+        "id": 319,
+        "name": "Torch",
+        "description": "This spirit of concentrated heat is a friend of Garet's. Torch's focused attack passes through any sort of protection.",
+        "effect": "Penetrate Defense with a melting blast."
+      },
+      {
+        "id": 320,
+        "name": "Shine",
+        "description": "This spirit of radiance is Garet's friend. The brilliant flash of Shine's attack blinds enemies around its target.",
+        "effect": "Burn a foe and blind its allies with brilliance."
+      },
+      {
+        "id": 321,
+        "name": "Flash",
+        "description": "This incandescent spirit is a friend of Garet's. The light that comes off Flash is intense enough to soften enemy blows.",
+        "effect": "Block damage to party with a firewall."
+      },
+      {
+        "id": 322,
+        "name": "Spark",
+        "description": "This spirit of fire's persistence is Garet's friend. Spark's never-say-die attitude inspires allies to fight on despite setbacks.",
+        "effect": "Usually revives a downed ally by warming up."
+      },
+      {
+        "id": 323,
+        "name": "Corona",
+        "description": "This spirit of fire's light is a friend of Garet's. Corona's glowing radiance is strong enough to blunt enemy attacks.",
+        "effect": "Boost party Defense with heat aura."
+      },
+      {
+        "id": 324,
+        "name": "Kindle",
+        "description": "This spirit of ignition is a friend of Garet's. Kindle's influence allows allies to exceed their usual limits of strength and power.",
+        "effect": "Increase all allies' Attack."
+      }
+    ]
+  },
+  "jupiter": {
+    "id": 4,
+    "djinn": [
+      {
+        "id": 401,
+        "name": "Gust",
+        "description": "This fleet spirit is first encountered at the Goma Highlands Road. Gust's trememdous speed always gets the jump on an enemy.",
+        "effect": "Buffet foe (perhaps twice) with gale force."
+      },
+      {
+        "id": 402,
+        "name": "Jolt",
+        "description": "This lightning spirit is first encountered at the Konpa ruins. Jolt generates a shock that can bring an unconscious ally around again.",
+        "effect": "May revive a downed ally with sharp shocks."
+      },
+      {
+        "id": 403,
+        "name": "Ether",
+        "description": "This spirit embodies the winds at the highest altitudes and is found in western Kaocho. Allies find Ether's presence calming, even in the midst of battle.",
+        "effect": "Focus will to restore PP."
+      },
+      {
+        "id": 404,
+        "name": "Breath",
+        "description": "This spirit embodies living breath and is found in Ayuthay. Breath specializes in healing allies in the nick of time.",
+        "effect": "Restore an ally's HP before others can act."
+      },
+      {
+        "id": 405,
+        "name": "Vortex",
+        "description": "This spirit embodies whirlwinds and is found in the Ouroboros. Vortex's attack leaves enemies dizzy and unable to see straight.",
+        "effect": "Attack and delude a foe with whirling air."
+      },
+      {
+        "id": 406,
+        "name": "Doldrum",
+        "description": "This spirit represents still air and is found at Craggy Peak. Doldrum can hold an enemy in place by encasing it in unmoving wind.",
+        "effect": "Stop enemy movement with still air."
+      },
+      {
+        "id": 407,
+        "name": "Sirocco",
+        "description": "This sandstorm spirit is first encountered in Border Town. Sirocco's swirling winds reduce enemy visibility to zero.",
+        "effect": "Scour and delude a foe with a sandstorm."
+      },
+      {
+        "id": 408,
+        "name": "Wisp",
+        "description": "This spirit of lingering fragrances is first met in Saha Town. Wisp can refresh the mind and heart with invigorating aromas.",
+        "effect": "Restore party PP with refreshing fragrances."
+      },
+      {
+        "id": 409,
+        "name": "Puff",
+        "description": "This spirit of clouds is first encountered at Talon Peak. Puff fills enemies with cloudstuff until they burst.",
+        "effect": "Inflate an enemy to bursting."
+      },
+      {
+        "id": 410,
+        "name": "Fleet",
+        "description": "This spirit of energetic winds befriends the party along with Sveta. Fleet's vigor inspires allies to act faster.",
+        "effect": "Boost party Agility with wind at your back."
+      },
+      {
+        "id": 411,
+        "name": "Waft",
+        "description": "This uplifting spirit joins the party along with Sveta. Waft's soothing fragrance lulls an enemy to sleep.",
+        "effect": "Smite and lull a foe to sleep with aromas."
+      },
+      {
+        "id": 412,
+        "name": "Bolt",
+        "description": "This electrical spirit joins the party along with Sveta. Bolt's constantly charging current shocks a foe senseless.",
+        "effect": "Attack and stun a foe with electrical force."
+      },
+      {
+        "id": 413,
+        "name": "Breeze",
+        "description": "This spirit of soft winds joins the party with Sveta. Breeze's calming influence shelters the mind from harmful Psynergy.",
+        "effect": "Boost party Resistance with a gentle wind."
+      },
+      {
+        "id": 414,
+        "name": "Haze",
+        "description": "This spirit of swirling vapors joins the party with Sveta. Haze can grant temporary sanctuary to a friend in the form of concealing mists.",
+        "effect": "Hide away to avoid damage."
+      },
+      {
+        "id": 415,
+        "name": "Kite",
+        "description": "This spirit represents flight and is found in Yamata. From a high vantage point Kite gives the party key tactical advice, allowing for an extra action.",
+        "effect": "Allow an ally to take an extra action."
+      },
+      {
+        "id": 416,
+        "name": "Lull",
+        "description": "This musical spirit is found on an island in the Otka Sea. Lull's song is comforting and causes combatants to have trouble continuing the battle.",
+        "effect": "Negotiate a temporary cease-fire for a turn."
+      },
+      {
+        "id": 417,
+        "name": "Swift",
+        "description": "This spirit of speed joins the group with Himi. Swift is the fastest of all spirits and always strikes before an enemy can.",
+        "effect": "Use speed of the wind to strike first."
+      },
+      {
+        "id": 418,
+        "name": "Simoom",
+        "description": "This spirit of burning winds is first found at a small desert island. The violent winds Simoom creates are scorchingly hot and act like a toxin in the body.",
+        "effect": "Scourge foe with a poisonous wind."
+      }
+    ]
+  }
+}
